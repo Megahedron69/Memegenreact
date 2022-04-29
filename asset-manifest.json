@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Memegenreact/static/css/main.2777037b.css",
+    "main.js": "/Memegenreact/static/js/main.735bb929.js",
+    "index.html": "/Memegenreact/index.html",
+    "main.2777037b.css.map": "/Memegenreact/static/css/main.2777037b.css.map",
+    "main.735bb929.js.map": "/Memegenreact/static/js/main.735bb929.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2777037b.css",
+    "static/js/main.735bb929.js"
+  ]
+}
